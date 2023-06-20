@@ -1,0 +1,37 @@
+body
+{
+ background-color: antiquewhite;
+ text-align: center;
+ 
+}
+.heading
+{
+   margin: auto; 
+   color:grey;
+}
+table
+{
+    
+    text-align: center;
+    margin:auto;
+    padding:10px;
+    background-color:palevioletred;
+    
+}
+h2{
+    text-align: left;
+    font-style: italic;
+    color:rgb(98, 0, 255);
+}
+h3{
+    text-align: center;
+}
+h1{
+    color:orange
+}
+ol{
+    
+    margin-left:auto ;
+    
+
+}
