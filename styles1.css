@@ -1,0 +1,64 @@
+body
+{
+ background-color: antiquewhite;
+ text-align: center;
+ 
+}
+.heading
+{
+   margin: auto; 
+   color:grey;
+}
+
+.container
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px auto 100px;
+
+}
+
+.container h1{
+    grid-area:auto ;
+
+}
+table
+{
+    
+    text-align: center;
+    margin:auto;
+    padding:10px;
+    background-color:palevioletred;
+    
+}
+.list h2{
+    margin-top: 300px;
+    text-align:center;
+    font-style: italic;
+    color:rgb(98, 0, 255);
+}
+
+.list ol{
+    list-style-position:inside;
+    text-align:centre;
+
+}
+
+h2{
+    color:rgb(98, 0, 255);
+}
+
+
+
+h3{
+    text-align: center;
+}
+h1{
+    color:orange
+}
+ol{
+    
+    margin-left:auto ;
+    
+
+}
